@@ -9,7 +9,6 @@ This project analyzes gene expression data from Acute Myeloid Leukemia (AML) pat
 
 ## Dataset
 - **Source:** [Kaggle: Leukemia Gene Expression (CUMIDA)](https://www.kaggle.com/datasets/brunogrisci/leukemia-gene-expression-cumida)
-- To download the dataset, configure your Kaggle API as per Kaggle’s docs or manually download the CSV and place it in data/.
 - **Samples:** 60 samples (AML, Bone Marrow, PB, CD34+)
 - **Features:** ~22,000 genes (Affymetrix Microarray)
 
